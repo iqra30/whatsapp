@@ -1,0 +1,36 @@
+img {
+    height: 90px;
+    width: 80px;
+    border-radius: 100%;
+}
+.timeline {
+    margin-left: 0.6em;
+}
+li {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid black;
+    background-color: rgb(222, 226, 157) ;
+    padding: 1em;
+    border-radius: 8px;
+    width: 400px;
+    height: 150px;
+}
+p {
+    margin : 5px;
+}
+.number {
+    margin-bottom: 40px;
+}
+.border {
+    display: inline;
+    padding: 10px 40px;
+	width: 40%;
+	margin: 20px 100px;
+}
+.red {
+    background: red;
+}
+.blue {
+    background: blue;
+}
